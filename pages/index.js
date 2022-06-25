@@ -8,6 +8,7 @@ export default function Home() {
     <Fragment>
       Hello
       Yasir
+      V1.0.0
     </Fragment>
   )
 }
